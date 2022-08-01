@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background-color: #2C3333;
+    color: #E7F6F2;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 7rem;
+    margin-bottom: 20px;
+    color: #EAE509;
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-weight: 800;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+.heading {
+    margin-top: 50px;
+    text-align: center;
+    padding: 0 14%;
+}
+
+#projects {
+    
+    margin-top: 50px;
+    padding : 0 20%;
+}
+
+
+.project-name {
+    font-size: 1.5rem;
+    margin: auto;
+}
+
+.btn-custom {
+    font-weight: 500;
+}
+
+.btn-custom:hover {
+    background-color: #FFF89C;
+    color: black;
+}
+
+.btn-course:hover {
+    background-color: rgb(111, 0, 152);
+}
